@@ -28,7 +28,7 @@
     "ethereum-blockies-base64": "^1.0.2",
     "focus-trap-react": "^10.0.0",
     "framer-motion": "^6.5.1",
-    "gatsby": "^4.21.1",
+    "gatsby": "^5.12.0",
     "gatsby-plugin-emotion": "^7.19.0",
     "gatsby-plugin-gatsby-cloud": "^4.20.0",
     "gatsby-plugin-image": "^2.21.0",
